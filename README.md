@@ -6,7 +6,6 @@ Este é um projeto simples de Todo List desenvolvido em HTML, CSS e JavaScript. 
 
 - Adicionar uma nova tarefa à lista.
 - Marcar uma tarefa como concluída.
-- Desmarcar uma tarefa concluída.
 - Excluir uma tarefa da lista.
 
 

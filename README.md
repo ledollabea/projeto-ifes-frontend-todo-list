@@ -1,13 +1,21 @@
-# TODO LIST
+# Todo List em HTML, CSS e JavaScript
 
-Este é um projeto simples em HTML, CSS e JavaScript que tem como objetivo criar um TODO list.
+Este é um projeto simples de Todo List desenvolvido em HTML, CSS e JavaScript. Ele permite aos usuários criar, editar, marcar como concluído e excluir tarefas da lista.
+
+## Funcionalidades
+
+- Adicionar uma nova tarefa à lista.
+- Marcar uma tarefa como concluída.
+- Desmarcar uma tarefa concluída.
+- Excluir uma tarefa da lista.
+
 
 ## Como Funciona
 
 1. Abra o arquivo `index.html` em seu navegador.
 2. Preencha o campo com a tarefa a ser realizada.
 3. Clique no botão "Adicionar tarefa" para ver a lista das tarefas a serem realizadas.
-4. Clique no botão verde com ícone em "v" para marcar tarefa como concluída ou "x" para excluir a tarefa.
+4. Clique no botão verde com ícone em "v" para marcar tarefa como concluída ou no botão vermelho com o "x" para excluir a tarefa.
 
 ## Estrutura do Projeto
 
